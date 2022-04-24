@@ -12,3 +12,14 @@
 
 - Client: ReactJS
 - Tools: Vercel
+
+## Features
+
+- View game scores below the game screen
+- Start the game again by clicking on the screen
+
+## Technologies:
+
+- React Hooks
+- Jest
+- css
